@@ -1,4 +1,3 @@
-text
 matplotlib
 pandas
 numpy
